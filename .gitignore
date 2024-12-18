@@ -1,0 +1,47 @@
+# Ignore generated files and directories
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Tamarin Prover temporary files
+*.thy~
+*.spthy~
+
+# Output and results
+results/
+*.log
+*.aux
+*.out
+
+# Documentation build artifacts
+docs/_build/
+
+# Backup and temporary files
+*.bak
+*.swp
+*.tmp
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Environmental files
+.env
+.env.*
+
+# OS-generated files
+Icon?
+__MACOSX/
+
