@@ -1,4 +1,4 @@
-# Academic Paper Repository
+# Paper: Formal Verification of Permission Voucher Protocol
 
 This repository contains the source code and supplementary materials for the academic paper titled: **Formal Verification of Permission Voucher Protocol**.
 
